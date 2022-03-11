@@ -1,0 +1,16 @@
+/home/abraao/Documentos/Estudo/RPGCsharpDIO/DIORPGPOOCsharp/obj/Debug/net5.0/DIORPGPOOCsharp.csproj.AssemblyReference.cache
+/home/abraao/Documentos/Estudo/RPGCsharpDIO/DIORPGPOOCsharp/obj/Debug/net5.0/DIORPGPOOCsharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/abraao/Documentos/Estudo/RPGCsharpDIO/DIORPGPOOCsharp/obj/Debug/net5.0/DIORPGPOOCsharp.AssemblyInfoInputs.cache
+/home/abraao/Documentos/Estudo/RPGCsharpDIO/DIORPGPOOCsharp/obj/Debug/net5.0/DIORPGPOOCsharp.AssemblyInfo.cs
+/home/abraao/Documentos/Estudo/RPGCsharpDIO/DIORPGPOOCsharp/obj/Debug/net5.0/DIORPGPOOCsharp.csproj.CoreCompileInputs.cache
+/home/abraao/Documentos/Estudo/RPGCsharpDIO/DIORPGPOOCsharp/bin/Debug/net5.0/DIORPGPOOCsharp
+/home/abraao/Documentos/Estudo/RPGCsharpDIO/DIORPGPOOCsharp/bin/Debug/net5.0/DIORPGPOOCsharp.deps.json
+/home/abraao/Documentos/Estudo/RPGCsharpDIO/DIORPGPOOCsharp/bin/Debug/net5.0/DIORPGPOOCsharp.runtimeconfig.json
+/home/abraao/Documentos/Estudo/RPGCsharpDIO/DIORPGPOOCsharp/bin/Debug/net5.0/DIORPGPOOCsharp.runtimeconfig.dev.json
+/home/abraao/Documentos/Estudo/RPGCsharpDIO/DIORPGPOOCsharp/bin/Debug/net5.0/DIORPGPOOCsharp.dll
+/home/abraao/Documentos/Estudo/RPGCsharpDIO/DIORPGPOOCsharp/bin/Debug/net5.0/ref/DIORPGPOOCsharp.dll
+/home/abraao/Documentos/Estudo/RPGCsharpDIO/DIORPGPOOCsharp/bin/Debug/net5.0/DIORPGPOOCsharp.pdb
+/home/abraao/Documentos/Estudo/RPGCsharpDIO/DIORPGPOOCsharp/obj/Debug/net5.0/DIORPGPOOCsharp.dll
+/home/abraao/Documentos/Estudo/RPGCsharpDIO/DIORPGPOOCsharp/obj/Debug/net5.0/ref/DIORPGPOOCsharp.dll
+/home/abraao/Documentos/Estudo/RPGCsharpDIO/DIORPGPOOCsharp/obj/Debug/net5.0/DIORPGPOOCsharp.pdb
+/home/abraao/Documentos/Estudo/RPGCsharpDIO/DIORPGPOOCsharp/obj/Debug/net5.0/DIORPGPOOCsharp.genruntimeconfig.cache

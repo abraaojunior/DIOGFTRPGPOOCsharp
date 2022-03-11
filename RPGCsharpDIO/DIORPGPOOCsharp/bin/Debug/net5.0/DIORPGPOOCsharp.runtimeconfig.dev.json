@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/abraao/.dotnet/store/|arch|/|tfm|",
+      "/home/abraao/.nuget/packages"
+    ]
+  }
+}
